@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    This is a conflict1.
+    This is a conflict1. <header>THis is a header</header>
 </body>
 </html>
