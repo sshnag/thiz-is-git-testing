@@ -1,1 +1,1 @@
-this is git testing text.
+Making a commit and creating conflict
