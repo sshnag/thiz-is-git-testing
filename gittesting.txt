@@ -1,1 +1,1 @@
-Making a commit and creating conflict
+This is made by new branch
