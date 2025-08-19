@@ -11,5 +11,9 @@
     <?php
     ?>
     Testing again i guess
+    <p>THis is a paragraph</p>
+    <strong>This is a higlight text</strong>
+    <b>there's no</b>
+    testing again
 </body>
 </html>
