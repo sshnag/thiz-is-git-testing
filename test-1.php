@@ -8,6 +8,9 @@
 <body>
     This is a conflict 24242323.
     This is a conflict1. <header>THis is a header</header>
+    <?php
+    ?>
+    Testing again i guess
     <p>THis is a paragraph</p>
     <strong>This is a higlight text</strong>
     <b>there's no</b>
