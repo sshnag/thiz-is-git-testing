@@ -8,7 +8,8 @@
 <body>
     This is a conflict 24242323.
     This is a conflict1. <header>THis is a header</header>
-    <p>THis is a paragraph</p>
+    <?php
+    ?>
     <p>This is a second one</p>
 </body>
 </html>
