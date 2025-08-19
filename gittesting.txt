@@ -1,1 +1,2 @@
-Making a commit and creating conflict
+this is a git test.
+don't change
