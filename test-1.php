@@ -9,6 +9,8 @@
     This is a conflict 24242323.
     This is a conflict1. <header>THis is a header</header>
     <p>THis is a paragraph</p>
-    <p>This is a second one</p>
+    <strong>This is a higlight text</strong>
+    <b>there's no</b>
+    testing again
 </body>
 </html>
