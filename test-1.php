@@ -10,6 +10,6 @@
     This is a conflict1. <header>THis is a header</header>
     <?php
     ?>
-    <p>This is a second one</p>
+    Testing again i guess
 </body>
 </html>
